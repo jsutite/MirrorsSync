@@ -1,5 +1,5 @@
 # MirrorsSync
-镜像服务组件
+ITE MIR189 镜像服务组件
 
 ## ITE MIR189 (开源镜像) 同步脚本使用说明
 
